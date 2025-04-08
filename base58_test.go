@@ -278,14 +278,3 @@ func BenchmarkDecodeString(b *testing.B) {
 		})
 	}
 }
-
-func BenchmarkNewEncoding(b *testing.B) {
-	b.SetBytes(int64(len(base58.StdEncoding.Reverse())))
-	for i := 0; i < b.N; i++ {
-		e := base58.NewEncoding(base58Alphabet)
-		for _, v := range e.Reverse() {
-			_ = v
-		}
-		_ = e
-	}
-}
