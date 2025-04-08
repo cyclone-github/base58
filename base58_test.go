@@ -19,7 +19,7 @@ https://github.com/cyclone-github/base58/blob/main/LICENSE
 Written in Pure Go by Cyclone
 https://github.com/cyclone-github/base58
 
-API based off the offical Go encoding/base64 package
+API based off the official Go encoding/base64 package
 https://pkg.go.dev/encoding/base64
 */
 

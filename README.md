@@ -1,13 +1,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=base58&theme=gruvbox)](https://github.com/cyclone-github/base58/)
 
-<!-- [![Go Report Card](https://goreportcard.com/badge/github.com/cyclone-github/base58)](https://goreportcard.com/report/github.com/cyclone-github/base58) -->
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/cyclone-github/base58)](https://goreportcard.com/report/github.com/cyclone-github/base58)
 [![GitHub issues](https://img.shields.io/github/issues/cyclone-github/base58.svg)](https://github.com/cyclone-github/base58/issues)
 [![License](https://img.shields.io/github/license/cyclone-github/base58.svg)](LICENSE)
-[![GitHub release](https://img.shields.io/github/release/cyclone-github/base58.svg)](https://github.com/cyclone-github/base58/releases)
-
-<!-- [![Go Reference](https://pkg.go.dev/badge/github.com/cyclone-github/base58.svg)](https://pkg.go.dev/github.com/cyclone-github/base58)
- -->
+[![GitHub release](https://img.shields.io/github/release/cyclone-github/base58.svg)](https://github.com/cyclone-github/base58/releases) [![Go Reference](https://pkg.go.dev/badge/github.com/cyclone-github/base58.svg)](https://pkg.go.dev/github.com/cyclone-github/base58)
 
 ---
 
