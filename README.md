@@ -9,7 +9,7 @@
 
 # Base58
 
-Base58 is a pure Go implementation of the Bitcoin Base58 encoding and decoding scheme based on the official Go [encoding/base64](https://pkg.go.dev/encoding/base64) package. 
+Base58 is a pure Go implementation of the Bitcoin Base58 encoding and decoding scheme, based on and following a similar API as the official Go stdlib [encoding/base64](https://pkg.go.dev/encoding/base64) package.
 
 ## Overview
 
