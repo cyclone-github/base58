@@ -27,6 +27,8 @@ https://pkg.go.dev/encoding/base64
 changelog:
 0.1.0; 2025-04-08
 	initial github release
+1.0.0; 2025-06-30
+	stable release
 */
 
 // standard base58 alphabet used in Bitcoin
