@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyclone-github&repo=base58&theme=gruvbox)](https://github.com/cyclone-github/base58/)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=cyclone-github&repo=base58&theme=gruvbox)](https://github.com/cyclone-github/base58/)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/cyclone-github/base58)](https://goreportcard.com/report/github.com/cyclone-github/base58)
 [![GitHub issues](https://img.shields.io/github/issues/cyclone-github/base58.svg)](https://github.com/cyclone-github/base58/issues)
